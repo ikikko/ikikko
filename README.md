@@ -7,9 +7,14 @@
 
 # 活動履歴
 ## 執筆/翻訳歴
-|日付|本|備考|
+|日付|書籍|備考|
 |---|--|---|
-|2020/09|<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://m.media-amazon.com/images/I/51FFV7e6OCL.jpg" width="150px" /></a>|翻訳に参加。翻訳時のやり方について、[XP祭りで発表](https://www.slideshare.net/ikikko/scrummaster-the-book-x)|
+|2020/09/09|<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://m.media-amazon.com/images/I/51FFV7e6OCL.jpg" width="150px" /></a>|翻訳に参加。[XP祭り](http://xpjug.com/xp2020/)で、[翻訳の進め方](https://www.slideshare.net/ikikko/scrummaster-the-book-x)を発表|
+|2016/06/24|<a href="https://www.amazon.co.jp/dp/4802610432" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51TdMOES7dL._SX390_BO1,204,203,200_.jpg" width="150px" /></a>|「第6章 DevOps時代に求められるスキル」を執筆。[ブログ](https://nulab.com/ja/blog/nulab/infra-engineer-book/)にて、本の内容と執筆環境の裏側を紹介|
+|2014/04/24|<a href="https://www.amazon.co.jp/dp/4774163988" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/610akTm+0SL._SX352_BO1,204,203,200_.jpg" width="150px" /></a>|「特集3 はじめてのMac開発環境」を執筆|
+|2012/12/22|<a href="https://www.amazon.co.jp/dp/4774153958" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51OFLsFh2hL._SX346_BO1,204,203,200_.jpg" width="150px" /></a>|「特集3 Backlog/Cacoo開発ノウハウ大公開」を執筆|
+
+<!-- TODO: 画像を直リンクでなく移しておく -->
 
 ## 登壇歴
 |日付|イベント|スライド|
