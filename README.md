@@ -26,3 +26,10 @@
 [個人ブログ](https://ikikko.hatenablog.com/)
 
 その他、会社ブログでいくつか
+
+<!-- TODO: 順番入れ替えた方がいいかも。本の画像は目立つので、後ろにもっていきたい -->
+
+<!-- TODO: 他いくつか追加
+* 認定資格 : Certifired ScrumMaster
+* Jenkins Advocate
+-->
