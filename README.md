@@ -1,16 +1,23 @@
-### Hi there 👋
+# プロフィール
+中村知成 ([@ikikko](https://twitter.com/ikikko))
 
-<!--
-**ikikko/ikikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+前職で課題管理・構成管理といった環境整備に面白さを感じ、2009年にBacklogを提供するヌーラボに転職。ソフトウェアエンジニアとしてBacklogの開発・運用両面を担当。並行して「共に働く人たちが、より輝けるように」という思いのもと、CI/CDや環境整備に対する取り組みも行う。2016年頃に知人のアジャイルコーチの活動に触れたことによって、技術的なプラクティスだけではないチーム作りや改善活動の重要性や難しさ・楽しさを実感し、以後アジャイルへの興味とそれを突き詰める活動を始める。
 
-Here are some ideas to get you started:
+現在は、社内の各チームへの支援活動を通じて、ヌーラボのサービス開発を影から支えている
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 活動履歴
+## 執筆/翻訳歴
+|日付|本|備考|
+|---|--|---|
+|2020/09|<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://m.media-amazon.com/images/I/51FFV7e6OCL.jpg" width="150px" /></a>|翻訳に参加。翻訳時のやり方について、[XP祭りで発表](https://www.slideshare.net/ikikko/scrummaster-the-book-x)|
+
+## 登壇歴
+|日付|イベント|スライド|
+|---|------|-----|
+|日時|イベント|スライド|
+
+## ブログなど
+
+[個人ブログ](https://ikikko.hatenablog.com/)
+
+その他、会社ブログでいくつか
