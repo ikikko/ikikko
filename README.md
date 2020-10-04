@@ -5,6 +5,10 @@
 
 現在は、社内の各チームへの支援活動を通じて、ヌーラボのサービス開発を影から支えている。
 
+## 得意なこと・興味があること
+* チームビルディング、プロセス改善、ファシリテーション
+* 環境構築、CI/CD（Jenkins、CircleCI、GitHub Actions）、DevOps
+
 # 活動履歴
 ## 執筆/翻訳歴
 |日付|書籍|備考|
@@ -35,11 +39,16 @@
 |2015/09/14|[Developers Summit 2015 FUKUOKA](https://event.shoeisha.jp/devsumi/20150914)|[継続的インテグレーションの過去・現在・そして未来 〜ヌーラボの事例と共に考える〜](https://speakerdeck.com/nulabinc/ji-sok-de-integuresiyonfalseguo-qu-xian-zai-sositewei-lai-nurabofalseshi-li-togong-nikao-eru)||
 |2014/02/04|[NUCON](https://nucon.nulab.com/)|[職人任せにしないインフラ構築/運用 ~ DevOps時代を生きぬくために ~](https://speakerdeck.com/nulabinc/yun-yong-devopsshi-dai-wosheng-kinukutameni)||
 
-## ブログなど
+## ブログ
+* [個人ブログ](https://ikikko.hatenablog.com/)
+* [会社ブログ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので、同じ名前の人が登場するブログも引っかかっていますが、大体は私のブログです）
 
-[個人ブログ](https://ikikko.hatenablog.com/)
+### 評判がよかったブログのピックアップ
+* [振り返ればインセプションデッキがいた ~ ヌーラボにとってのインセプションデッキ ~](https://nulab.com/ja/blog/nulab/inception-deck-in-nulab/)
+* [チームの期待値を合わせる！ドラッカー風エクササイズとタックマンモデルを組み合わせた結果](https://backlog.com/ja/blog/drucker-exercise-meets-tuckman-model/)
+* [分散拠点のオフラインワークショップを上手にファシリテーションするコツ〜ヌーラボの場合〜](https://nulab.com/ja/blog/nulab/nulab-team-building-workshop/)
+* [アジャイルなチームを改善するアイデア集「101 ideas for agile teams」で僕が学んだこと](https://backlog.com/ja/blog/101-ideas-for-agile-teams/)  
 
-その他、会社ブログでいくつか
 
 <!-- TODO: 順番入れ替えた方がいいかも。本の画像は目立つので、後ろにもっていきたい -->
 
