@@ -18,6 +18,17 @@
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="60px" /> Scrum Alliance® 認定スクラムマスター
 
 # 活動履歴
+
+## 経歴
+|日付|所属|業務|役割|環境・言語など|
+|---|----|---|---|-----------|
+|2020-|株式会社ヌーラボ|全社|スクラムマスター・アジャイルコーチ|アジャイル開発、スクラム、カンバン、チームビルディング、ファシリテーション|
+|2019-2020|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発マネージャー|チームビルディング、ファシリテーション|
+|2016-2018|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|スクラムマスター・アジャイルコーチ|アジャイル開発、スクラム、カンバン、チームビルディング、ファシリテーション|
+|2012-2016|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発・運用エンジニア、チームリーダー|Java, Git, MySQL, Jenkins, Docker, Ansible, Linux, AWS|
+|2009-2012|株式会社ヌーラボ|各種受託開発|エンジニア|Java, Subversion, MySQL, Jenkins|
+|2006-2009|メーカー系SIer|商社向け基幹システムの追加開発|エンジニア|SAP, ABAP|
+
 ## 執筆/翻訳歴
 |日付|書籍|備考|
 |---|--|---|
