@@ -5,14 +5,17 @@
 
 現在は、社内の各チームへの支援活動を通じて、ヌーラボのサービス開発を影から支えている。
 
-## 得意なこと・興味があること
-* チームビルディング、プロセス改善、ファシリテーション
-* 環境構築、CI/CD（Jenkins、CircleCI、GitHub Actions）、DevOps
-
 ## 大切にしている価値観
 * 現場で働く人の役に立ちたい！
   * その先にエンドユーザーを見据えつつも
   * 現場で働く人たちがより活き活きと動けるように
+
+## 得意なこと・興味があること
+* チームビルディング、プロセス改善、ファシリテーション
+* 環境構築、CI/CD（Jenkins、CircleCI、GitHub Actions）、DevOps
+
+## 認定資格
+* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="60px" /> Scrum Alliance® 認定スクラムマスター
 
 # 活動履歴
 ## 執筆/翻訳歴
