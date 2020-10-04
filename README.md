@@ -34,22 +34,22 @@
 |2020/06/30|[チームで共通認識を持ちプロジェクトの方向性を統一する方法と体験ワークショップ（インセプションデッキ）](https://project-is-burning.connpass.com/event/178666/)|[インセプションデッキとは](https://speakerdeck.com/nulabinc/what-is-a-inception-deck)|ワークショップ有。同テーマで数回実施|
 |2020/04/27|[カンバンボードの上手な活用術（初級編）](https://project-is-burning.connpass.com/event/172700/)|[カンバンボード活用術](https://speakerdeck.com/nulabinc/good-usage-of-kanban-board)|ワークショップ有。同テーマで数回実施|
 |2019/07/29|[京都アジャイル勉強会 #91](https://kyoaja.connpass.com/event/138909/)|[アジャイルに有効な「ボード」の最適解を本気出して考えてみた](https://backlog.com/ja/blog/ultimate-agile-board/)||
-|2019/05/28|[CircleCI ユーザーコミュニティミートアップ #4](https://circleci.connpass.com/event/125622/)|[Orbs開発の流れ ~はじめの一歩から、組織的にメンテしていくための環境構築まで](https://speakerdeck.com/nulabinc/flow-of-orbs-development)|作ったOrbの紹介ブログは[こちら](https://www.typetalk.com/ja/blog/how-to-integrate-circleci-with-typetalk-to-automatically-notify-of-build-results/)|
+|2019/05/28|[CircleCI ユーザーコミュニティミートアップ #4](https://circleci.connpass.com/event/125622/)|[Orbs開発の流れ ~はじめの一歩から、組織的にメンテしていくための環境構築まで](https://speakerdeck.com/nulabinc/flow-of-orbs-development)|[作ったOrbの紹介ブログ](https://www.typetalk.com/ja/blog/how-to-integrate-circleci-with-typetalk-to-automatically-notify-of-build-results/)|
 |2019/03/08|[DevLOVE関西 カンバンを武器に奮闘している2つの現場の話](https://devlove-kansai.doorkeeper.jp/events/86809)|[プロジェクトを成功させるためのWIPの取り扱いとメンバー構成](https://speakerdeck.com/nulabinc/wip-and-members-for-project-goal)||
 |2018/02/23|[アジャイルひよこクラブ みんな失敗から始まった！はじめてのアジャイルつまずき体験](https://agile-hiyoko-club.connpass.com/event/77141/)|[スクラム風でのつまずき体験から学んだこと](https://www.slideshare.net/ikikko/ss-88893441)||
 |2018/01/12|[eureka x Nulab スクラム開発の現場](https://eure.connpass.com/event/74590/)|[2人のアジャイルコーチが語る、とある現場支援の回想録](https://speakerdeck.com/nulabinc/memoir-about-a-field-support-by-2-agile-coaches)||
-|2017/11/08|第11回 Jenkins勉強会|[Jenkins world 2017の報告](https://www.slideshare.net/ikikko/jenkins-world-2017-81751611)|[Jenkins World 2017でMost Valuable Advocate賞受賞](https://ikikko.hatenaeblog.com/entry/2017/09/01/075040)時の報告|
+|2017/11/08|第11回 Jenkins勉強会|[Jenkins world 2017の報告](https://www.slideshare.net/ikikko/jenkins-world-2017-81751611)||
 |2017/08/25|[Geeks Who Drink in Tokyo-Agile Team Edition-](https://nulab.connpass.com/event/63537/)|[現場リーダーが変わっていくなかで身につけたもの](https://speakerdeck.com/nulabinc/what-a-leader-learned-in-changing)||
 |2017/07/07|第10回 Jenkins勉強会|[プルリクエストCI時のTIPSとJenkinsおじさん](https://speakerdeck.com/nulabinc/pullrequest-ci-and-jenkins-master)||
 |2017/01/13|[Regional SCRUM GATHERING Tokyo 2017](https://2017.scrumgatheringtokyo.org/)|[個人プレイからチームプレイへと 変革する組織](https://speakerdeck.com/nulabinc/ge-ren-pureikaratimupureiheto-bian-ge-suruzu-zhi)||
-|2016/08/10|[第9回Jenkins勉強会](https://jenkins.connpass.com/event/35030/)|[Jenkins 2を使った究極のpipeline ~ 明日もう一度来てください、本物のpipelineをお見せしますよ ~](https://www.slideshare.net/ikikko/jenkins-2pipeline-64866625)|後日、内容を整理してまとめたブログが[こちら](https://nulab.com/ja/blog/backlog/jenkins-backlog-plugin-pipeline/)|
+|2016/08/10|[第9回Jenkins勉強会](https://jenkins.connpass.com/event/35030/)|[Jenkins 2を使った究極のpipeline ~ 明日もう一度来てください、本物のpipelineをお見せしますよ ~](https://www.slideshare.net/ikikko/jenkins-2pipeline-64866625)|[後日、内容を整理してまとめたブログ](https://nulab.com/ja/blog/backlog/jenkins-backlog-plugin-pipeline/)|
 |2016/04/23|[第9回 コンテナ型仮想化の情報交換会＠福岡](https://ct-study.connpass.com/event/28449/)|[Docker in CI](https://speakerdeck.com/nulabinc/docker-in-ci-1)||
 |2015/09/14|[Developers Summit 2015 FUKUOKA](https://event.shoeisha.jp/devsumi/20150914)|[継続的インテグレーションの過去・現在・そして未来 〜ヌーラボの事例と共に考える〜](https://speakerdeck.com/nulabinc/ji-sok-de-integuresiyonfalseguo-qu-xian-zai-sositewei-lai-nurabofalseshi-li-togong-nikao-eru)||
 |2014/02/04|[NUCON](https://nucon.nulab.com/)|[職人任せにしないインフラ構築/運用 ~ DevOps時代を生きぬくために ~](https://speakerdeck.com/nulabinc/yun-yong-devopsshi-dai-wosheng-kinukutameni)||
 
 ## ブログ
 * [個人ブログ](https://ikikko.hatenablog.com/)
-* [会社ブログ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので、同じ名前の人が登場するブログも引っかかっていますが、大体は私のブログです）
+* [会社ブログ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので同名の人が登場するブログも引っかかっていますが、大体は私のブログです）
 
 ### 評判がよかったブログのピックアップ
 * [振り返ればインセプションデッキがいた ~ ヌーラボにとってのインセプションデッキ ~](https://nulab.com/ja/blog/nulab/inception-deck-in-nulab/)
@@ -57,11 +57,8 @@
 * [分散拠点のオフラインワークショップを上手にファシリテーションするコツ〜ヌーラボの場合〜](https://nulab.com/ja/blog/nulab/nulab-team-building-workshop/)
 * [アジャイルなチームを改善するアイデア集「101 ideas for agile teams」で僕が学んだこと](https://backlog.com/ja/blog/101-ideas-for-agile-teams/)  
 
-
-<!-- TODO: 順番入れ替えた方がいいかも。本の画像は目立つので、後ろにもっていきたい -->
-
-<!-- TODO: 他いくつか追加
-* 認定資格 : Certifired ScrumMaster
-* Jenkins Advocate
-* コミュニティ活動：
--->
+## コミュニティ活動
+* [Jenkinsユーザー会](https://jenkins.jp/)
+  * 2回の[Jenkinsユーザーカンファレンス](https://jenkins.jp/juc2018/)をはじめとして、コミュニティの代表的な活動を行う
+  * それをきっかけに、Jenkins World 2017で[Most Valuable Advocate賞を受賞](https://ikikko.hatenaeblog.com/entry/2017/09/01/075040)
+* [Regional Scrum Gathering Tokyo](https://scrumgatheringtokyo.org/)をはじめとして、アジャイルに関するイベント・コミュニティに参加
