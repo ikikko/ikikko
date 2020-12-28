@@ -40,6 +40,7 @@
 ## 登壇歴
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2020/12/22|[Agile Tour Osaka × miniPLoP 2020](https://www.kokuchpro.com/event/8f4b35513c024ab78bc84c9b4cbcf81a/)|[SCRUMMASTER THE BOOKで広がるスクラムマスターの世界](https://www2.slideshare.net/ikikko/scrummaster-the-book)|[参加報告ブログ](https://ikikko.hatenablog.com/entry/2020/12/29/012735)|
 |2020/09/19|[XP祭り2020 @ Online](http://xpjug.com/xp2020/)|[SCRUMMASTER THE BOOK翻訳活動における、リモート x モブ実践](https://www.slideshare.net/ikikko/scrummaster-the-book-x)||
 |2020/07/21|[企画から展開までどのような作業が発生するかを可視化し、チーム内の無駄に気付ける方法（VSM）](https://project-is-burning.connpass.com/event/181797/)|[バリューストリームマッピング](https://speakerdeck.com/nulabinc/what-is-a-value-stream-mapping)|ワークショップ有|
 |2020/06/30|[チームで共通認識を持ちプロジェクトの方向性を統一する方法と体験ワークショップ（インセプションデッキ）](https://project-is-burning.connpass.com/event/178666/)|[インセプションデッキとは](https://speakerdeck.com/nulabinc/what-is-a-inception-deck)|ワークショップ有。同テーマで数回実施|
