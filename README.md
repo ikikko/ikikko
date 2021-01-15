@@ -6,9 +6,9 @@
 現在は、社内の各チームへの支援活動を通じて、ヌーラボのサービス開発を影から支えている。
 
 ## 大切にしている価値観
-* 現場で働く人の役に立ちたい！
-  * その先にエンドユーザーを見据えつつも
-  * 現場で働く人たちがより活き活きと動けるように
+* 現場で働くチームの役に立ちたい！
+  * エンドユーザーへ価値を届けることを見据えつつ
+  * その価値を産み出すチームもより活き活きと動けるように
 
 ## 得意なこと・興味があること
 * チームビルディング、プロセス改善、ファシリテーション
@@ -40,6 +40,7 @@
 ## 登壇歴
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2021/01/06|[Regional SCRUM GATHERING Tokyo 2021](https://2021.scrumgatheringtokyo.org/)|[コロナ前からコミュニティでリモートモブで常に前に進む『The Great ScrumMaster』翻訳チームの話。普通の私たちが読みやすい本を目指して持続性のある翻訳作業に行きついた。](https://confengine.com/regional-scrum-gathering-tokyo-2021/proposal/15054/the-great-scrummaster)||
 |2020/12/22|[Agile Tour Osaka × miniPLoP 2020](https://www.kokuchpro.com/event/8f4b35513c024ab78bc84c9b4cbcf81a/)|[SCRUMMASTER THE BOOKで広がるスクラムマスターの世界](https://www2.slideshare.net/ikikko/scrummaster-the-book)|[参加報告ブログ](https://ikikko.hatenablog.com/entry/2020/12/29/012735)|
 |2020/09/19|[XP祭り2020 @ Online](http://xpjug.com/xp2020/)|[SCRUMMASTER THE BOOK翻訳活動における、リモート x モブ実践](https://www.slideshare.net/ikikko/scrummaster-the-book-x)||
 |2020/07/21|[企画から展開までどのような作業が発生するかを可視化し、チーム内の無駄に気付ける方法（VSM）](https://project-is-burning.connpass.com/event/181797/)|[バリューストリームマッピング](https://speakerdeck.com/nulabinc/what-is-a-value-stream-mapping)|ワークショップ有|
