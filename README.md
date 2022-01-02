@@ -41,6 +41,8 @@
 ## 登壇歴
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2021/10/02|[Scrum Fest Mikawa 2021](https://www.scrumfestmikawa.org/2021)|[えっ、まだユニットテスト書いてない現場があるんですか？ - ボトムアップでもっといけてるチームになるために、たった一つの大事なこと -](https://speakerdeck.com/ikikko/why-dont-you-write-unit-tests)||
+|2021/09/18|[XP祭り2021 @ Online](http://xpjug.com/xp2021/)|[2人のスクラムマスターが、新しい現場に飛び込んでみたときのお話](https://docs.google.com/presentation/d/1eQuAoOtxp9wAL7txwSXfNr1uVzFx2O9ijutXfE4e7AY/edit#slide=id.p)||
 |2021/01/06|[Regional SCRUM GATHERING Tokyo 2021](https://2021.scrumgatheringtokyo.org/)|[コロナ前からコミュニティでリモートモブで常に前に進む『The Great ScrumMaster』翻訳チームの話。普通の私たちが読みやすい本を目指して持続性のある翻訳作業に行きついた。](https://confengine.com/regional-scrum-gathering-tokyo-2021/proposal/15054/the-great-scrummaster)||
 |2020/12/22|[Agile Tour Osaka × miniPLoP 2020](https://www.kokuchpro.com/event/8f4b35513c024ab78bc84c9b4cbcf81a/)|[SCRUMMASTER THE BOOKで広がるスクラムマスターの世界](https://www2.slideshare.net/ikikko/scrummaster-the-book)|[参加報告ブログ](https://ikikko.hatenablog.com/entry/2020/12/29/012735)|
 |2020/09/19|[XP祭り2020 @ Online](http://xpjug.com/xp2020/)|[SCRUMMASTER THE BOOK翻訳活動における、リモート x モブ実践](https://www.slideshare.net/ikikko/scrummaster-the-book-x)||
