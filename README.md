@@ -16,6 +16,7 @@
 
 ## 認定資格
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="60px" /> Scrum Alliance® アドバンスド認定スクラムマスター
+* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="60px" /> PROFESSIONAL AGILE LEADERSHIP™ - EVIDENCE-BASED MANAGEMENT™
 
 # 活動履歴
 
