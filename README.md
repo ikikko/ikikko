@@ -3,7 +3,7 @@
 
 新卒で入社した現場で課題管理・構成管理といった環境整備に面白さを感じ、2009年にBacklogを提供するヌーラボに転職。ソフトウェアエンジニアとしてBacklogの開発・運用両面を担当。並行して「共に働く人たちが、より輝けるように」という思いのもと、CI/CDや環境整備に対する取り組みも行う。2016年頃に知人のアジャイルコーチの活動に触れたことによって、技術的なプラクティスだけではないチーム作りや改善活動の重要性や難しさ・楽しさを実感し、以後アジャイルへの興味とそれを突き詰める活動を始める。
 
-現在は、クリエーションラインでスクラムマスターとして、現場支援をメインに活動中。その活動を通じて、チーム・ユーザーともに喜びを届けることについて模索している。
+現在は、クリエーションラインでスクラムマスター・アジャイルコーチとして、現場支援をメインに活動中。その活動を通じて、チーム・ユーザーともに喜びを届けることについて模索している。
 
 ## 大切にしている価値観
 * 現場で働くチームの役に立ちたい！
@@ -42,6 +42,8 @@
 ## 登壇歴
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2022/05/21|[Scrum Fest Niigata 2022](https://www.scrumfestniigata.org/2022)|[半年前の僕らを超えろ！自動テストに向き合いながら、一歩ずつ進もうとしている現場のお話](https://www.docswell.com/s/ikikko/517LV5-baby-step-field-with-automation-test)|[発表内容紹介ブログ](https://www.creationline.com/lab/51056)|
+|2022/02/24|[アジャイルひよこクラブ どんなメトリクスをとって、どう活用している？](https://agile-hiyoko-club.connpass.com/event/238670/)|[Scrum.orgのEVIDENCE-BASED MANAGEMENT(EBM) を受けてきたお話](https://speakerdeck.com/ikikko/taking-ebm-assessment-in-scrum-dot-org)||
 |2021/10/02|[Scrum Fest Mikawa 2021](https://www.scrumfestmikawa.org/2021)|[えっ、まだユニットテスト書いてない現場があるんですか？ - ボトムアップでもっといけてるチームになるために、たった一つの大事なこと -](https://speakerdeck.com/ikikko/why-dont-you-write-unit-tests)||
 |2021/09/18|[XP祭り2021 @ Online](http://xpjug.com/xp2021/)|[2人のスクラムマスターが、新しい現場に飛び込んでみたときのお話](https://docs.google.com/presentation/d/1eQuAoOtxp9wAL7txwSXfNr1uVzFx2O9ijutXfE4e7AY/edit#slide=id.p)||
 |2021/01/06|[Regional SCRUM GATHERING Tokyo 2021](https://2021.scrumgatheringtokyo.org/)|[コロナ前からコミュニティでリモートモブで常に前に進む『The Great ScrumMaster』翻訳チームの話。普通の私たちが読みやすい本を目指して持続性のある翻訳作業に行きついた。](https://confengine.com/regional-scrum-gathering-tokyo-2021/proposal/15054/the-great-scrummaster)||
