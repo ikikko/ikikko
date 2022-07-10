@@ -15,7 +15,7 @@
 * 環境構築、CI/CD（Jenkins、CircleCI、GitHub Actions）、DevOps
 
 ## 認定資格
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="60px" /> Scrum Alliance® アドバンスド認定スクラムマスター
+* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="60px" /> Advanced Certified ScrumMaster®
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="60px" /> PROFESSIONAL AGILE LEADERSHIP™ - EVIDENCE-BASED MANAGEMENT™
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="60px" /> PROFESSIONAL SCRUM™ WITH KANBAN level I
 
