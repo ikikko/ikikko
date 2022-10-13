@@ -83,4 +83,6 @@
 * [Jenkinsユーザー会](https://jenkins.jp/)
   * 2回の[Jenkinsユーザーカンファレンス](https://jenkins.jp/juc2018/)をはじめとして、コミュニティの代表的な活動を行う
   * それをきっかけに、Jenkins World 2017で[Most Valuable Advocate賞を受賞](https://ikikko.hatenablog.com/entry/2017/09/01/075040)
-* [Regional Scrum Gathering Tokyo](https://scrumgatheringtokyo.org/)をはじめとして、アジャイルに関するイベント・コミュニティに参加
+* アジャイルコミュニティ
+  * [Scrum Fest Fukuoka](https://www.scrumfestfukuoka.org/)実行委員
+  * [Regional Scrum Gathering Tokyo](https://scrumgatheringtokyo.org/)をはじめとして、アジャイルに関するイベント・コミュニティに参加
