@@ -45,6 +45,7 @@
 ## 登壇歴
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2022/11/04|[Scrum Fest Sapporo 2022](https://www.scrumfestsapporo.org)|[スクラムマスターの頭の中：あのときスクラムマスターは何を考えていたのか？](https://www.docswell.com/s/ikikko/KE2LQZ-2022-11-04-004804)||
 |2022/05/21|[Scrum Fest Niigata 2022](https://www.scrumfestniigata.org/2022)|[半年前の僕らを超えろ！自動テストに向き合いながら、一歩ずつ進もうとしている現場のお話](https://www.docswell.com/s/ikikko/517LV5-baby-step-field-with-automation-test)|[発表内容紹介ブログ](https://www.creationline.com/lab/51056)|
 |2022/02/24|[アジャイルひよこクラブ どんなメトリクスをとって、どう活用している？](https://agile-hiyoko-club.connpass.com/event/238670/)|[Scrum.orgのEVIDENCE-BASED MANAGEMENT(EBM) を受けてきたお話](https://speakerdeck.com/ikikko/taking-ebm-assessment-in-scrum-dot-org)||
 |2021/10/02|[Scrum Fest Mikawa 2021](https://www.scrumfestmikawa.org/2021)|[えっ、まだユニットテスト書いてない現場があるんですか？ - ボトムアップでもっといけてるチームになるために、たった一つの大事なこと -](https://speakerdeck.com/ikikko/why-dont-you-write-unit-tests)||
