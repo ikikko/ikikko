@@ -72,7 +72,8 @@
 
 ## ブログ
 * [個人ブログ](https://ikikko.hatenablog.com/)
-* [会社ブログ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので同名の人が登場するブログも引っかかっていますが、大体は私のブログです）
+* [会社ブログ＠クリエーションライン](https://www.creationline.com/t-nakamura)
+* [会社ブログ＠ヌーラボ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので同名の人が登場するブログも引っかかっていますが、大体は私のブログです）
 
 ### 評判がよかったブログのピックアップ
 * [振り返ればインセプションデッキがいた ~ ヌーラボにとってのインセプションデッキ ~](https://nulab.com/ja/blog/nulab/inception-deck-in-nulab/)
