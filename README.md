@@ -20,6 +20,7 @@
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="60px" /> Professional Scrum Master™ I
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="60px" /> Professional Agile Leadership™ - Evidence-Based Management™
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="60px" /> Professional Scrum™ with Kanban I
+* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="60px" /> Registered Scrum@Scale® Practitioner
 * <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="60px" /> DASA DEVOPS FUNDAMENTALS™
 
 # 活動履歴
