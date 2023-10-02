@@ -34,14 +34,13 @@
 -->
 
 ## 認定資格
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="60px" /> Certified ScrumMaster®
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="60px" /> Advanced Certified ScrumMaster®
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="60px" /> Professional Scrum Master™ I
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="60px" /> Professional Agile Leadership™ - Evidence-Based Management™
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="60px" /> Professional Scrum™ with Kanban I
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="60px" /> Registered Scrum@Scale® Practitioner
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="60px" /> DASA DEVOPS FUNDAMENTALS™
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="60px" /> Professional Applied Metrics
+
+|提供団体|認定資格|
+|-------|------|
+| Scrum Alliance | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="100px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="100px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) |
+| Scrum.org | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="100px" />](https://www.scrum.org/assessments/professional-scrum-master-i-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="100px" />](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="100px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification) |
+| Scrum Inc | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="100px" />](https://www.scruminc.com/scrum-at-scale-training/) |
+| その他 | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="100px" />](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="100px" />](https://prokanban.org/professional-applied-metrics/) |
 
 # 活動履歴
 
