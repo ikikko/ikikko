@@ -11,28 +11,46 @@
   * その価値を産み出すチームもより活き活きと動けるように
 
 ## 得意なこと・興味があること
-* チームビルディング、プロセス改善、ファシリテーション
-* 環境構築、CI/CD（Jenkins、CircleCI、GitHub Actions）、DevOps
+* 1チームからなる開発チームの支援（[スクラムマスター道：レベル1 - 私のチーム](https://speakerdeck.com/kawaguti/10years-in-agile-coach?slide=26)）
+  * スクラム・カンバンの導入支援
+  * 環境構築、CI/CD、DevOpsなど、基本レベルの技術プラクティスの導入支援
+* 周囲との関係性やつながりの強化（[スクラムマスター道：レベル2 - 関係性](https://speakerdeck.com/kawaguti/10years-in-agile-coach?slide=26)）
+  * 複数チームの支援（LeSS / Scrum@Scale）
+  * 開発チームと、その周りの顧客・マーケティング・サポートチームなどとの関係性支援
+* プロダクトに携わるみんなが同じものを見て、同じ目標に対して動けるようにサポート
+  * 顧客視点での全体最適（VSM、フェニックスプロジェクト、制約理論など） 
+  * 見える化や透明性、定量的なメトリクスをもとにした意思決定（4 keys metrics、EBMなど）
+
+<!-- 
+## 一緒に働きたいチーム
+一緒に働く人たちに、役立ってるなあと求められる現場がいい。
+
+* 自分なりのやり方もってるより、まだまだこれからな現場
+* ただし、アジャイルな方向に向かいたい！と思ってる現場
+  * 単一チームからやるのが王道だけど
+  * そろそろ複数チームや周辺に広げていきたい、って思ってる現場もあり
+    * そして、そっちの方が、スクラムマスターやコーチの需要は多くなりそう
+* いまのところ、業界やサービスについては、そこまでこだわってはいない
+-->
 
 ## 認定資格
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="60px" /> Certified ScrumMaster®
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="60px" /> Advanced Certified ScrumMaster®
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="60px" /> Professional Scrum Master™ I
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="60px" /> Professional Agile Leadership™ - Evidence-Based Management™
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="60px" /> Professional Scrum™ with Kanban I
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="60px" /> Registered Scrum@Scale® Practitioner
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="60px" /> DASA DEVOPS FUNDAMENTALS™
-* <img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="60px" /> Professional Applied Metrics
+
+|提供団体|認定資格|
+|-------|------|
+| Scrum Alliance | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="64px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="64px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) |
+| Scrum.org | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-i-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="64px" />](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification) |
+| Scrum Inc | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
+| その他 | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="64px" />](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="64px" />](https://prokanban.org/professional-applied-metrics/) |
 
 # 活動履歴
 
 ## 経歴
 |日付|所属|業務|役割|環境・言語など|
 |---|----|---|---|-----------|
-|2022-|クリエーションライン株式会社|Webサービス提供会社の支援|スクラムマスター|アジャイル開発、スクラム、チームビルディング、ファシリテーション|
-|2021-2022|クリエーションライン株式会社|受託開発|複数チーム(LeSS)のスクラムマスター|アジャイル開発、スクラム、チームビルディング、ファシリテーション|
+|2022-|クリエーションライン株式会社|Webサービス開発の支援|複数チームのスクラムマスター|アジャイル開発、スクラム、Scrum@Scale|
+|2021-2022|クリエーションライン株式会社|受託開発の支援|複数チームのスクラムマスター|アジャイル開発、スクラム、LeSS、CI/CD|
 |2020-2021|株式会社ヌーラボ|全社|スクラムマスター・アジャイルコーチ|アジャイル開発、スクラム、カンバン、チームビルディング、ファシリテーション|
-|2019-2020|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発マネージャー|チームビルディング、ファシリテーション|
+|2019-2020|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発マネージャー|チームビルディング、ファシリテーション、ピープルマネジメント、人材採用|
 |2016-2018|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|スクラムマスター・アジャイルコーチ|アジャイル開発、スクラム、カンバン、チームビルディング、ファシリテーション|
 |2012-2016|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発・運用エンジニア、チームリーダー|Java, Git, MySQL, Jenkins, Docker, Ansible, Linux, AWS|
 |2009-2012|株式会社ヌーラボ|各種受託開発|エンジニア|Java, Subversion, MySQL, Jenkins|
