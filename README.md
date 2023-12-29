@@ -45,6 +45,8 @@
 # 活動履歴
 
 ## 経歴
+<details>
+
 |日付|所属|業務|役割|環境・言語など|
 |---|----|---|---|-----------|
 |2022-|クリエーションライン株式会社|Webサービス開発の支援|複数チームのスクラムマスター|アジャイル開発、スクラム、Scrum@Scale|
@@ -56,7 +58,11 @@
 |2009-2012|株式会社ヌーラボ|各種受託開発|エンジニア|Java, Subversion, MySQL, Jenkins|
 |2006-2009|メーカー系SIer|商社向け基幹システムの追加開発|エンジニア|SAP, ABAP|
 
+</details>
+
 ## 執筆/翻訳歴
+<details>
+
 |日付|書籍|備考|
 |---|--|---|
 |2020/09/09|<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/SCRUMMASTER%20THE%20BOOK.jpeg?raw=true" width="150px" /></a>|翻訳に参加。XP祭りで、[翻訳の進め方](https://www.slideshare.net/ikikko/scrummaster-the-book-x)を発表|
@@ -64,7 +70,11 @@
 |2014/04/24|<a href="https://www.amazon.co.jp/dp/4774163988" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/WEB+DB%20PRESS%20Vol.80.jpeg?raw=true" width="150px" /></a>|「特集3 はじめてのMac開発環境」を執筆|
 |2012/12/22|<a href="https://www.amazon.co.jp/dp/4774153958" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/WEB+DB%20PRESS%20Vol.72.jpeg?raw=true" width="150px" /></a>|「特集3 Backlog/Cacoo開発ノウハウ大公開」を執筆|
 
+</details>
+
 ## 登壇歴
+<details>
+
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
 |2022/11/04|[Scrum Fest Sapporo 2022](https://www.scrumfestsapporo.org)|[スクラムマスターの頭の中：あのときスクラムマスターは何を考えていたのか？](https://www.docswell.com/s/ikikko/KE2LQZ-2022-11-04-004804)||
@@ -92,7 +102,11 @@
 |2015/09/14|[Developers Summit 2015 FUKUOKA](https://event.shoeisha.jp/devsumi/20150914)|[継続的インテグレーションの過去・現在・そして未来 〜ヌーラボの事例と共に考える〜](https://speakerdeck.com/nulabinc/ji-sok-de-integuresiyonfalseguo-qu-xian-zai-sositewei-lai-nurabofalseshi-li-togong-nikao-eru)||
 |2014/02/04|[NUCON](https://nucon.nulab.com/)|[職人任せにしないインフラ構築/運用 ~ DevOps時代を生きぬくために ~](https://speakerdeck.com/nulabinc/yun-yong-devopsshi-dai-wosheng-kinukutameni)||
 
+</details>
+
 ## ブログ
+<details>
+
 * [個人ブログ](https://ikikko.hatenablog.com/)
 * [会社ブログ＠クリエーションライン](https://www.creationline.com/t-nakamura)
 * [会社ブログ＠ヌーラボ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので同名の人が登場するブログも引っかかっていますが、大体は私のブログです）
@@ -103,10 +117,16 @@
 * [分散拠点のオフラインワークショップを上手にファシリテーションするコツ〜ヌーラボの場合〜](https://nulab.com/ja/blog/nulab/nulab-team-building-workshop/)
 * [アジャイルなチームを改善するアイデア集「101 ideas for agile teams」で僕が学んだこと](https://backlog.com/ja/blog/101-ideas-for-agile-teams/)  
 
+</details>
+
 ## コミュニティ活動
+<details>
+ 
 * [Jenkinsユーザー会](https://jenkins.jp/)
   * 2回の[Jenkinsユーザーカンファレンス](https://jenkins.jp/juc2018/)をはじめとして、コミュニティの代表的な活動を行う
   * それをきっかけに、Jenkins World 2017で[Most Valuable Advocate賞を受賞](https://ikikko.hatenablog.com/entry/2017/09/01/075040)
 * アジャイルコミュニティ
   * [Scrum Fest Fukuoka](https://www.scrumfestfukuoka.org/)実行委員
   * [Regional Scrum Gathering Tokyo](https://scrumgatheringtokyo.org/)をはじめとして、アジャイルに関するイベント・コミュニティに参加
+
+</details>
