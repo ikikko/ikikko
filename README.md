@@ -111,11 +111,15 @@
 * [会社ブログ＠クリエーションライン](https://www.creationline.com/t-nakamura)
 * [会社ブログ＠ヌーラボ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので同名の人が登場するブログも引っかかっていますが、大体は私のブログです）
 
+<!-- ヌーラボ時代の情報なので、より新しい情報を前面に出したいので、コメントアウト
+
 ### 評判がよかったブログのピックアップ
 * [振り返ればインセプションデッキがいた ~ ヌーラボにとってのインセプションデッキ ~](https://nulab.com/ja/blog/nulab/inception-deck-in-nulab/)
 * [チームの期待値を合わせる！ドラッカー風エクササイズとタックマンモデルを組み合わせた結果](https://backlog.com/ja/blog/drucker-exercise-meets-tuckman-model/)
 * [分散拠点のオフラインワークショップを上手にファシリテーションするコツ〜ヌーラボの場合〜](https://nulab.com/ja/blog/nulab/nulab-team-building-workshop/)
 * [アジャイルなチームを改善するアイデア集「101 ideas for agile teams」で僕が学んだこと](https://backlog.com/ja/blog/101-ideas-for-agile-teams/)  
+
+-->
 
 </details>
 
