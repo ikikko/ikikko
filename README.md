@@ -47,7 +47,7 @@
 
 # 経歴
 <details>
-<summary>クリエーションライン (2021-)</summary>
+<summary>クリエーションライン株式会社 (2021-)</summary>
 
 ## Webサービス開発会社でのスクラムマスター (2022-)
 
@@ -85,7 +85,7 @@ Scrum@Scaleを採用しているWebサービス開発会社にて、スクラム
 </details>
 
 <details>
-<summary>ヌーラボ (2009-2021)</summary>
+<summary>株式会社ヌーラボ (2009-2021)</summary>
 
 ## スクラムマスター・アジャイルコーチ (2016-2021)
 
