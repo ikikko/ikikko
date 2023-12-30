@@ -200,3 +200,9 @@ SAP, ABAP
   * [Regional Scrum Gathering Tokyo](https://scrumgatheringtokyo.org/)をはじめとして、アジャイルに関するイベント・コミュニティに参加
 
 </details>
+
+# コンタクト情報
+お問い合わせは、以下のどちらかの手段でお願いします
+
+- メールアドレス：ikikko at gmail.com
+- X（旧Twitter）のDM：[@ikikko](https://twitter.com/ikikko)
