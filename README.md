@@ -82,6 +82,8 @@ Scrum@Scaleを採用しているWebサービス開発会社にて、スクラム
 - [DevOpsビジネスシミュレーション研修：フェニックスプロジェクト](https://www.creationline.com/devops-ss/phoenix-project)
 - キックオフ支援（インセプションデッキ作成ワークショップ など）
 
+<br>
+
 </details>
 
 <details>
@@ -116,6 +118,8 @@ Java, Git, MySQL, Jenkins, Docker, Ansible, Linux, AWS
 
 Java, Subversion, MySQL, Jenkins
 
+<br>
+
 </details>
 
 <details>
@@ -126,7 +130,9 @@ Java, Subversion, MySQL, Jenkins
 ### 使用技術
 
 SAP, ABAP
- 
+
+<br>
+
 </details>
 
 
