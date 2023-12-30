@@ -42,25 +42,94 @@
 | Scrum Inc | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
 | その他 | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="64px" />](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="64px" />](https://prokanban.org/professional-applied-metrics/) |
 
-# 活動履歴
-
-## 経歴
+# 経歴
 <details>
+<summary>クリエーションライン (2021-)</summary>
 
-|日付|所属|業務|役割|環境・言語など|
-|---|----|---|---|-----------|
-|2022-|クリエーションライン株式会社|Webサービス開発の支援|複数チームのスクラムマスター|アジャイル開発、スクラム、Scrum@Scale|
-|2021-2022|クリエーションライン株式会社|受託開発の支援|複数チームのスクラムマスター|アジャイル開発、スクラム、LeSS、CI/CD|
-|2020-2021|株式会社ヌーラボ|全社|スクラムマスター・アジャイルコーチ|アジャイル開発、スクラム、カンバン、チームビルディング、ファシリテーション|
-|2019-2020|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発マネージャー|チームビルディング、ファシリテーション、ピープルマネジメント、人材採用|
-|2016-2018|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|スクラムマスター・アジャイルコーチ|アジャイル開発、スクラム、カンバン、チームビルディング、ファシリテーション|
-|2012-2016|株式会社ヌーラボ|[Backlog](https://backlog.com/ja/)|開発・運用エンジニア、チームリーダー|Java, Git, MySQL, Jenkins, Docker, Ansible, Linux, AWS|
-|2009-2012|株式会社ヌーラボ|各種受託開発|エンジニア|Java, Subversion, MySQL, Jenkins|
-|2006-2009|メーカー系SIer|商社向け基幹システムの追加開発|エンジニア|SAP, ABAP|
+## Webサービス開発会社でのスクラムマスター (2022-)
+
+Scrum@Scaleを採用しているWebサービス開発会社にて、スクラムマスターとして支援中。業務の半分はあるチームAのスクラムマスターとして、もう半分はチームAを含む4チームからなるスクラムオブスクラム（SoS）に対するスクラムマスター（SoSM）として活動している。
+
+チームAに対する業務内容は、1チームのときと変わらず。SoSMとしては、特定のチームというより、チーム横断の調整を中心に支援している。チーム間の依存関係を洗い出し、クリティカルパスを見えるようにすることによって、SoSの透明性を高める活動などを行っている。
+
+### 関連するアウトプット
+
+- Scrum@Scaleの知識習得：[「Scrum@Scale研修」参加レポート](https://www.creationline.com/tech-blog/62188)
+
+## 物流会社向け受託開発でのスクラムマスター (2021-2022)
+
+2~3チームからなるLeSSの体制で、社内用Webアプリケーションを開発している案件に、スクラムマスターとして支援していた。主にPO支援と、各チームのスクラムマスターと連携してチーム全体を見る役割を担っていた。
+
+顧客企業所属のPOのキャリアが浅かったため、顧客企業側のステークホルダーとPOの架け橋となって、会話の場が円滑に進むようにファシリテート。その他、迅速な価値提供のためにフロー効率を優先する取り組みや、複数チーム間での完成の定義を定めるワークショップの主催などを行う。
+
+並行して、開発者に対して技術的に支援。当初は自動テストの環境が十分に整備されておらず、開発者が整備するには時間やケイパビリティが不足していたため、自分が手を動かすことによってテスト環境の整備を進める。
+
+### 関連するアウトプット
+
+- フロー効率に向けた取り組み / 完成の定義のワークショップ：[スクラムマスターの頭の中：あのときスクラムマスターは何を考えていたのか？](https://www.docswell.com/s/ikikko/KE2LQZ-in-scrum-masters-mind)
+- 自動テスト環境の整備：[えっ、まだユニットテスト書いてない現場があるんですか？ - ボトムアップでもっといけてるチームになるために、たった一つの大事なこと -](https://speakerdeck.com/ikikko/why-dont-you-write-unit-tests)
+- その他の開発環境整備：[2022/5/20-21日開催「Scrum Fest Niigata 2022」で発表してきました](https://www.creationline.com/tech-blog/51056)
+
+## 研修・ワークショップの提供
+
+スクラムマスターとしてチームを支援する傍ら、顧客企業向けに各種の研修やワークショップを提供している。
+
+- アジャイル開発研修
+- バリューストリームマッピングワークショップ（[提供事例](https://www.creationline.com/clientvoice/case29)）
+- [DevOpsビジネスシミュレーション研修：フェニックスプロジェクト](https://www.creationline.com/devops-ss/phoenix-project)
+- キックオフ支援（インセプションデッキ作成ワークショップ など）
 
 </details>
 
-## 執筆/翻訳歴
+<details>
+<summary>ヌーラボ (2009-2021)</summary>
+
+## スクラムマスター・アジャイルコーチ (2016-2021)
+
+### 関連するアウトプット
+
+知人のアジャイルコーチの活動に触れたことにより、技術的なプラクティスだけではないチーム作りや改善活動の重要性や難しさ・楽しさを実感。社内へのアジャイル推進を行う。
+
+## インタビュー記事
+
+- [リーダーが変われば仕事が変わる。組織と人の成長を後押ししてくれた現場コーチ(お客様インタビュー第7回目) ｜ GuildWorks -ギルドワークス-](https://guildworks.jp/works/item.html?id=25)
+- [リーダーが変われば仕事が変わる。組織と人の成長を後押ししてくれた現場コーチ(お客様インタビュー第8回目) ｜ GuildWorks -ギルドワークス-](https://guildworks.jp/works/item.html?id=29)
+
+## Backlog開発マネージャー (2016-2018)
+
+チームのメンバーやチーム数が増えたことから、マネージャー職として活動。メンバーとの1on1や人材採用などのピープルマネジメントと、チームの目標設定の支援などを行う。
+
+## Backlog開発・運用エンジニア (2012-2016)
+
+Backlogの中の人として、開発・運用双方に携わる。機能開発だけでなく、開発した機能をそのまま運用も行い、ユーザーからの問い合わせも対応するなど、Webサービス運営に関連する一連の業務を経験。
+
+また、このタイミングでCI/CD（Jenkins）の必要性や便利さに触れ、それらを社内外に推し進める活動を行ってきた。
+
+### 使用技術
+
+Java, Git, MySQL, Jenkins, Docker, Ansible, Linux, AWS
+
+## 受託開発向けエンジニア (2009-2012)
+
+### 使用技術
+
+Java, Subversion, MySQL, Jenkins
+
+</details>
+
+<details>
+<summary>日立ソフトウェアエンジニアリング株式会社 (2006-2009)</summary>
+
+## 商社向け基幹システムの追加開発	(2006-2009)
+
+### 使用技術
+
+SAP, ABAP
+ 
+</details>
+
+
+# 執筆/翻訳歴
 <details>
 
 |日付|書籍|備考|
@@ -72,7 +141,7 @@
 
 </details>
 
-## 登壇歴
+# 登壇歴
 <details>
 
 |日付|イベント|スライド|備考|
@@ -104,8 +173,10 @@
 
 </details>
 
-## ブログ
+# その他活動
 <details>
+
+## ブログ
 
 * [個人ブログ](https://ikikko.hatenablog.com/)
 * [会社ブログ＠クリエーションライン](https://www.creationline.com/t-nakamura)
@@ -121,10 +192,7 @@
 
 -->
 
-</details>
-
 ## コミュニティ活動
-<details>
  
 * [Jenkinsユーザー会](https://jenkins.jp/)
   * 2回の[Jenkinsユーザーカンファレンス](https://jenkins.jp/juc2018/)をはじめとして、コミュニティの代表的な活動を行う
