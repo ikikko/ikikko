@@ -5,6 +5,8 @@
 
 現在は、クリエーションラインでスクラムマスター・アジャイルコーチとして、現場支援をメインに活動中。その活動を通じて、チーム・ユーザーともに喜びを届けることについて模索している。
 
+<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/SCRUMMASTER%20THE%20BOOK.jpeg?raw=true" width="60px" /></a> 書籍：SCRUMMASTER THE BOOKの共同翻訳者
+
 ## 大切にしている価値観
 * 現場で働くチームの役に立ちたい！
   * エンドユーザーへ価値を届けることを見据えつつ
@@ -41,6 +43,7 @@
 | Scrum.org | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-i-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmii.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-ii-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="64px" />](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification) |
 | Scrum Inc | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
 | その他 | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="64px" />](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="64px" />](https://prokanban.org/professional-applied-metrics/) |
+
 
 # 経歴
 <details>
@@ -139,6 +142,7 @@ SAP, ABAP
 
 </details>
 
+
 # 登壇歴
 <details>
 
@@ -171,6 +175,7 @@ SAP, ABAP
 
 </details>
 
+
 # その他活動
 <details>
 
@@ -200,6 +205,7 @@ SAP, ABAP
   * [Regional Scrum Gathering Tokyo](https://scrumgatheringtokyo.org/)をはじめとして、アジャイルに関するイベント・コミュニティに参加
 
 </details>
+
 
 # コンタクト情報
 お問い合わせは、以下のどちらかの手段でお願いします
