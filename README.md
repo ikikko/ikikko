@@ -153,6 +153,8 @@ SAP, ABAP
 
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2024/09/24|[CL Meetup #30](https://creationline.connpass.com/event/329178/)|EBMワークショップ（参加者限定公開）||
+|2024/04/16|[DevOpsDays Tokyo 2024](https://www.devopsdaystokyo.org/)|[4 Keys Metricsだけじゃない！価値に目を向けたメトリクス：EBMに触れてみよう](https://www.docswell.com/s/ikikko/Z38X9Y-get-in-touch-with-ebm)||
 |2023/03/07|[CL Meetup #6](https://creationline.connpass.com/event/274330/)|[ワークショップを「あー楽しかった」で終わらせない！次につながるアクションの定め方](https://www.docswell.com/s/ikikko/KNRMDQ-how-to-plan-the-action-with-workshop)||
 |2022/11/04|[Scrum Fest Sapporo 2022](https://www.scrumfestsapporo.org)|[スクラムマスターの頭の中：あのときスクラムマスターは何を考えていたのか？](https://www.docswell.com/s/ikikko/KE2LQZ-2022-11-04-004804)||
 |2022/05/21|[Scrum Fest Niigata 2022](https://www.scrumfestniigata.org/2022)|[半年前の僕らを超えろ！自動テストに向き合いながら、一歩ずつ進もうとしている現場のお話](https://www.docswell.com/s/ikikko/517LV5-baby-step-field-with-automation-test)|[発表内容紹介ブログ](https://www.creationline.com/lab/51056)|
