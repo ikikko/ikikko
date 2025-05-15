@@ -209,8 +209,10 @@ SAP, ABAP
 
 ## ブログ
 
-* [個人ブログ](https://ikikko.hatenablog.com/)
+上から順に、新しい情報を掲載しています
+
 * [会社ブログ＠クリエーションライン](https://www.creationline.com/tech-blog/author/t-nakamura)
+* [個人ブログ](https://ikikko.hatenablog.com/)
 * [会社ブログ＠ヌーラボ](https://backlog.com/ja/blog/?s=%E4%B8%AD%E6%9D%91)（名前でキーワード検索しているので同名の人が登場するブログも引っかかっていますが、大体は私のブログです）
 
 <!-- ヌーラボ時代の情報なので、より新しい情報を前面に出したいので、コメントアウト
