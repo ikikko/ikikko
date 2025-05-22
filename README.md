@@ -49,7 +49,7 @@
 
 |提供団体|認定資格|
 |-------|------|
-| Scrum Inc | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
+| Scrum Inc. | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
 
 </details>
 
