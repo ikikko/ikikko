@@ -5,7 +5,7 @@
 
 現在は、クリエーションラインでスクラムマスター・アジャイルコーチとして、現場支援をメインに活動中。その活動を通じて、チーム・ユーザーともに喜びを届けることについて模索している。
 
-<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/SCRUMMASTER%20THE%20BOOK.jpeg?raw=true" width="60px" /></a> 書籍：SCRUMMASTER THE BOOKの共同翻訳者
+<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="./image/book/SCRUMMASTER%20THE%20BOOK.jpeg" width="60px" /></a> 書籍：SCRUMMASTER THE BOOKの共同翻訳者
 
 ## 大切にしている価値観
 * 現場で働くチームの役に立ちたい！
@@ -39,9 +39,9 @@
 
 |提供団体|認定資格|
 |-------|------|
-| Scrum Alliance | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/csm.png" width="64px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/advcsm.png" width="64px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) |
-| Scrum.org | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmi.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-i-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psmii.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-ii-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pspoi.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pali.png" width="64px" />](https://www.scrum.org/assessments/professional-agile-leadership-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pal-ebm.png" width="64px" />](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/psfs.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-facilitation-skills-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pski.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/ppdv.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-product-discovery-and-validation-certification)|
-| その他 | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/devops-fundamentals.png" width="64px" />](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/) [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/pam.webp" width="64px" />](https://prokanban.org/professional-applied-metrics/) |
+| Scrum Alliance | [<img src="./image/certification/csm.png" width="64px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) [<img src="./image/certification/advcsm.png" width="64px" />](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) |
+| Scrum.org | [<img src="./image/certification/psmi.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-i-certification) [<img src="./image/certification/psmii.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-master-ii-certification) [<img src="./image/certification/pspoi.png" width="64px" />](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) [<img src="./image/certification/pali.png" width="64px" />](https://www.scrum.org/assessments/professional-agile-leadership-certification) [<img src="./image/certification/pal-ebm.png" width="64px" />](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification) [<img src="./image/certification/psfs.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-facilitation-skills-certification) [<img src="./image/certification/pski.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification) [<img src="./image/certification/ppdv.png" width="64px" style="padding-bottom: 10px;" />](https://www.scrum.org/assessments/professional-product-discovery-and-validation-certification)|
+| その他 | [<img src="./image/certification/devops-fundamentals.png" width="64px" />](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/) [<img src="./image/certification/pam.webp" width="64px" />](https://prokanban.org/professional-applied-metrics/) |
 
 
 <details>
@@ -49,7 +49,7 @@
 
 |提供団体|認定資格|
 |-------|------|
-| Scrum Inc. | [<img src="https://github.com/ikikko/ikikko/blob/master/image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
+| Scrum Inc. | [<img src="./image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
 
 </details>
 
@@ -168,10 +168,10 @@ SAP, ABAP
 
 |日付|書籍|備考|
 |---|--|---|
-|2020/09/09|<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/SCRUMMASTER%20THE%20BOOK.jpeg?raw=true" width="150px" /></a>|翻訳に参加。XP祭りで、[翻訳の進め方](https://www.slideshare.net/ikikko/scrummaster-the-book-x)を発表|
-|2016/06/24|<a href="https://www.amazon.co.jp/dp/4802610432" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/%E7%8F%BE%E5%A0%B4%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B1%8B%E3%81%8B%E3%82%99%E6%95%99%E3%81%88%E3%82%8B%20%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B7%E3%82%99%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8.jpeg?raw=true" width="150px" /></a>|「第6章 DevOps時代に求められるスキル」を執筆。[ブログ](https://nulab.com/ja/blog/nulab/infra-engineer-book/)にて、本の内容と執筆環境の裏側を紹介|
-|2014/04/24|<a href="https://www.amazon.co.jp/dp/4774163988" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/WEB+DB%20PRESS%20Vol.80.jpeg?raw=true" width="150px" /></a>|「特集3 はじめてのMac開発環境」を執筆|
-|2012/12/22|<a href="https://www.amazon.co.jp/dp/4774153958" target="_blank"><img src="https://github.com/ikikko/ikikko/blob/master/image/book/WEB+DB%20PRESS%20Vol.72.jpeg?raw=true" width="150px" /></a>|「特集3 Backlog/Cacoo開発ノウハウ大公開」を執筆|
+|2020/09/09|<a href="https://www.amazon.co.jp/dp/B08CRMPQL8" target="_blank"><img src="./image/book/SCRUMMASTER%20THE%20BOOK.jpeg" width="150px" /></a>|翻訳に参加。XP祭りで、[翻訳の進め方](https://www.slideshare.net/ikikko/scrummaster-the-book-x)を発表|
+|2016/06/24|<a href="https://www.amazon.co.jp/dp/4802610432" target="_blank"><img src="./image/book/%E7%8F%BE%E5%A0%B4%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B1%8B%E3%81%8B%E3%82%99%E6%95%99%E3%81%88%E3%82%8B%20%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B7%E3%82%99%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8.jpeg" width="150px" /></a>|「第6章 DevOps時代に求められるスキル」を執筆。[ブログ](https://nulab.com/ja/blog/nulab/infra-engineer-book/)にて、本の内容と執筆環境の裏側を紹介|
+|2014/04/24|<a href="https://www.amazon.co.jp/dp/4774163988" target="_blank"><img src="./image/book/WEB+DB%20PRESS%20Vol.80.jpeg" width="150px" /></a>|「特集3 はじめてのMac開発環境」を執筆|
+|2012/12/22|<a href="https://www.amazon.co.jp/dp/4774153958" target="_blank"><img src="./image/book/WEB+DB%20PRESS%20Vol.72.jpeg" width="150px" /></a>|「特集3 Backlog/Cacoo開発ノウハウ大公開」を執筆|
 
 </details>
 
