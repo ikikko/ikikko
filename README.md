@@ -181,6 +181,7 @@ SAP, ABAP
 
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2025/03/25|[実践的なスクラム学習に役立つ！日本語対応で注目のScrum.org™研修＆認定資格を解説](https://www.itpreneurs.co.jp/event/20250325sdo/)|[Scrum.org™研修＆認定資格 徹底解説](https://www.docswell.com/s/ikikko/5DN7DD-scrum-org-learning)||
 |2025/03/17|[Scrum Fest Kanagawa 2025 -春の陣-](https://www.scrumfestkanagawa.org/2025spring)|[スクラムだけじゃない！アジャイルを実践するための普遍的なパターン「アジャイルのカタ」](https://www.docswell.com/s/ikikko/5MX2LN-agile-kata-yet-another-scrum)||
 |2024/09/24|[CL Meetup #30](https://creationline.connpass.com/event/329178/)|EBMワークショップ（参加者限定公開）||
 |2024/04/16|[DevOpsDays Tokyo 2024](https://www.devopsdaystokyo.org/)|[4 Keys Metricsだけじゃない！価値に目を向けたメトリクス：EBMに触れてみよう](https://www.docswell.com/s/ikikko/Z38X9Y-get-in-touch-with-ebm)||
