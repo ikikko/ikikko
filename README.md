@@ -1,5 +1,5 @@
 # プロフィール
-中村 知成 ([@ikikko](https://twitter.com/ikikko))
+中村 知成 ([@ikikko](https://x.com/ikikko))
 
 新卒で入社した現場で課題管理・構成管理といった環境整備に面白さを感じ、2009年にBacklogを提供するヌーラボに転職。ソフトウェアエンジニアとしてBacklogの開発・運用両面を担当。並行して「共に働く人たちが、より輝けるように」という思いのもと、CI/CDや環境整備に対する取り組みも行う。2016年頃に知人のアジャイルコーチの活動に触れたことによって、技術的なプラクティスだけではないチーム作りや改善活動の重要性や難しさ・楽しさを実感し、以後アジャイルへの興味とそれを突き詰める活動を始める。
 
@@ -47,9 +47,9 @@
 <details>
 <summary>失効中</summary>
 
-|提供団体|認定資格|
-|-------|------|
-| Scrum Inc. | [<img src="./image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
+|認定資格|
+|------|
+| [<img src="./image/certification/rsasp.png" width="64px" />](https://www.scruminc.com/scrum-at-scale-training/) |
 
 </details>
 
@@ -250,4 +250,4 @@ SAP, ABAP
 お問い合わせは、以下のどちらかの手段でお願いします
 
 - メールアドレス：ikikko at gmail.com
-- X（旧Twitter）のDM：[@ikikko](https://twitter.com/ikikko)
+- X（旧Twitter）のDM：[@ikikko](https://x.com/ikikko)
