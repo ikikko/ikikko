@@ -189,6 +189,7 @@ SAP, ABAP
 
 |日付|イベント|スライド|備考|
 |---|------|-----|----|
+|2025/11/29|[Backlog World 2025](https://jbuginfo.backlog.com/backlogworld2025/)|[プロジェクトマネジメントからプロダクトマネジメントへ：価値中心のアプローチで実現するアジャイルなプロダクト開発](https://www.docswell.com/s/ikikko/ZQXW2X-project-to-product-with-value-based-approach)|[発表内容紹介ブログ](https://www.creationline.com/tech-blog/agile-devops/agile/80866)|
 |2025/09/12|[組織アジャイル + プロダクトチーム：2軸でのアジャイルの推進！](https://redjourney.connpass.com/event/363684/)|パネルディスカッション||
 |2025/09/06|[Scrum Fest Mikawa 2025](https://www.scrumfestmikawa.org/)|出張！何でもEBMワークショップ団 in 三河（参加者限定公開）||
 |2025/07/19|[Scrum Fest Osaka 2025](https://www.scrumosaka.org/2025)|[スクラムじゃなくとも、アジャイルは目指せる！そう、「アジャイルのカタ」ならね](https://www.docswell.com/s/ikikko/ZMLP28-agile-with-kata)|[発表内容紹介ブログ](https://www.creationline.com/tech-blog/agile-devops/agile/78539)|
