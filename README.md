@@ -13,7 +13,7 @@
 
 現在は、クリエーションラインでスクラムマスター・アジャイルコーチとして、現場支援をメインに活動中。その活動を通じて、チーム・ユーザーともに喜びを届けることについて模索している。
 
-日本では一桁台となる、[Scrum.orgのProfessional Scrum Trainer](https://www.creationline.com/tech-blog/agile-devops/agile/83024)
+日本では一桁台となる [Professional Scrum Trainer](https://www.creationline.com/tech-blog/agile-devops/agile/83024)
 
 <img src="./image/certification/pst-certificate.png" width="400px" />
 
